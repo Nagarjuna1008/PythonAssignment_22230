@@ -1,0 +1,98 @@
+1. Write a program to print the following Patterns
+  1 2 3 4 5 
+  1 2 3 4 5  
+  1 2 3 4 5 
+  1 2 3 4 5 
+  1 2 3 4 5
+2.Write a program to print the following Pattern
+  5 4 3 2 1 
+  5 4 3 2 1
+  5 4 3 2 1
+  5 4 3 2 1
+  5 4 3 2 1 
+3.Write a program to print the following Pattern
+  5 5 5 5 5 
+  4 4 4 4 4 
+  3 3 3 3 3 
+  2 2 2 2 2 
+  1 1 1 1 1
+4.Write a program to print the following Pattern
+  1
+  1 2
+  1 2 3
+  1 2 3 4
+  1 2 3 4 5
+5.Write a program to print the following Pattern
+  1 
+  2 2 
+  3 3 3 
+  4 4 4 4 
+  5 5 5 5 5
+6.Write a program to print the following Pattern
+  1 
+  2 3  
+  4 5 6 
+  7 8 9 10 
+  11 12 13 14 15
+
+7.Write a program to print the following Pattern
+  5 
+  4 4 
+  3 3 3 
+  2 2 2 2 
+  1 1 1 1 1
+8.Write a program to print the following Pattern
+  1 
+  2 3 
+  3 4 5 
+  4 5 6 7 
+  5 6 7 8 9 
+9.Write a program to print the following Pattern
+  A 
+  B C
+  D E F
+  G H I J
+  K L M N O
+10.Write a program to print the following Pattern
+   * * * * * 
+   * * * * * 
+   * * * * * 
+   * * * * * 
+   * * * * * 
+11.Write a program to print the following Pattern
+   * 
+   * * 
+   * * * 
+   * * * * 
+   * * * * * 
+12.Write a program to print the following Pattern
+    * * * * * 
+    *       * 
+    *       * 
+    *       * 
+    * * * * * 
+13.Write a program to print the following Pattern
+          * 
+        * * * 
+      * * * * * 
+    * * * * * * *
+14.Display Multiplication Table in given range using Nested for loops
+15.Display Prime Numbers in the given range using nested for loops 
+
+16.Write a program to print the following Pattern
+	1
+              3  2
+       6   5   4
+10  9   8   7
+
+17.Write a program to print the following Pattern
+10  9  8   7
+      6   5  4
+           3  2
+               1
+ 
+
+   
+
+
+  
