@@ -1,0 +1,29 @@
+Solve without using builtin methods:
+
+1. WAP to print middle charector of the string 
+
+2. WAP to print half reverse of the string 
+
+Input: KNOWLEDGE
+Output: EGDELKNOW
+
+3. WAP to remove all the vouels from the given string 
+
+4. WAP to insert * in front of every vouels in the string.
+
+Input: BANANA
+Output: B*AN*AN*A
+
+5. WAP to count number of words in the string.
+
+6. WAP to remove extra space from the given string 
+
+7. WAP to insert string in between the given string
+Input: Ojas technologies 
+Output: Ojas innovative technologies 
+
+8. WAP to find the ascci value of given char
+
+9. insert ojas in front of every string 
+
+10. insert ojas in every extra space in the string 
